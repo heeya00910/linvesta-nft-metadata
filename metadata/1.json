@@ -1,0 +1,9 @@
+{
+  "name": "Linvesta Lyceum Membership #0001",
+  "description": "Founding member NFT of Linvesta Lyceum.",
+  "image": "https://raw.githubusercontent.com/heeya00910/linvesta-nft-metadata/main/membership_card.png",
+  "attributes": [
+    { "trait_type": "Tier", "value": "Founding" },
+    { "trait_type": "Member ID", "value": "0001" }
+  ]
+}
